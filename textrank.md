@@ -319,13 +319,13 @@ if __name__ == '__main__':
 资料 :  0.0009963517283698218
 ```
 
-![](pkuhole-11.7-cloud.png)
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fxa2wppvqpj31a60u0qny.jpg)
 
 上图展示了由排名前300的词语组成的词云，从图中可以发现，尽管树洞日常话题的热度不减，但同学们明显正受到期中考试的折磨。
 
 为了与之对比，另外贴出10月31日的词云分析如下。(看来”老师“、”同学“、”作业“等词需要加入停止词了)
 
-![](pkuhole-10.31-cloud.png)
+![](https://ws2.sinaimg.cn/large/006tNbRwly1fxa2wo8if0j31a60u0qmv.jpg)
 
 如果有同学对树洞项目感兴趣，欢迎和我进行探讨~
 
